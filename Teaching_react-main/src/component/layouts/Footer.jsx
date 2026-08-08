@@ -59,9 +59,9 @@ function Footer() {
           <div className="lg:w-2/5">
             <h3 className="text-sm font-semibold  mb-2">Contact Us</h3>
             <p className="text-sm ">
-              SoleCrafts HQ . Sainamaina -10 saljhandi, <br />
-              <span className="font-medium">Phone:</span> +977 9816413787 <br />
-              <span className="font-medium">Email:</span> support@solecraftshoe.com
+              SoleCrafts HQ . bouddha,ktm <br />
+              <span className="font-medium">Phone:</span> +977 9808076243 <br />
+              <span className="font-medium">Email:</span> solecraft@gmail.com
             </p>
           </div>
         </div>

@@ -29,7 +29,7 @@ function Header() {
               </div>
               <div className="flex items-center gap-1">
                 <MdOutlinePhoneInTalk className="cursor-pointer" />
-                <a href="tel:+1234567890"> +977 9816413787</a>
+                <a href="tel:+1234567890"> +977 9808076243</a>
               </div>
             </div>
 
