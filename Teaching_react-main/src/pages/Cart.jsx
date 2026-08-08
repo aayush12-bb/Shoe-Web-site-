@@ -1,6 +1,6 @@
 import React from 'react'
 import { useSelector, useDispatch } from "react-redux";
-import { removeFromCart } from '../apps/Reducers/cartSlice';
+import { removeFromCart } from '../apps/Reducers/CartSlice';
 
 
 function Cart() {
@@ -12,8 +12,8 @@ function Cart() {
   }
 
   return (
-   <div className="p-8 max-w-3xl mx-auto mt-38">
- 
+    <div className="p-8 max-w-3xl mx-auto mt-38">
+
       <h2 className="text-2xl mb-4">Your Cart</h2>
 
       {items.map((item) => (
